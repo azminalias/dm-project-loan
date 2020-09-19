@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7.6
+
 import streamlit as st
 import os
 import pandas as pd
